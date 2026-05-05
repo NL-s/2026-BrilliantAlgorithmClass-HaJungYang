@@ -1,0 +1,12 @@
+# OMC local session state (per-machine, not for sharing)
+.omc/
+
+# Editor / OS noise
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Build artifacts from compile_check.sh
+*.bin
+*.o
